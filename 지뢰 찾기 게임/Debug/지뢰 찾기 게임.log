@@ -1,0 +1,28 @@
+﻿빌드 시작: 2021-09-06 오전 3:41:14
+로깅의 세부 정보 표시가 Normal(으)로 설정되었습니다.     1>2 노드의 "C:\Users\pc\source\repos\지뢰 찾기 게임\지뢰 찾기 게임\지뢰 찾기 게임.vcxproj" 프로젝트(Build 대상)입니다.
+     1>InitializeBuildStatus:
+         "Debug\지뢰 찾기 게임.tlog\unsuccessfulbuild"에 연결(touching)하고 있습니다.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:prompt Assistant.cpp GameManager.cpp Minesweeper.cpp
+         Assistant.cpp
+         GameManager.cpp
+         Minesweeper.cpp
+         코드를 생성하고 있습니다...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\pc\source\repos\지뢰 찾기 게임\Debug\지뢰 찾기 게임.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"C:\Users\pc\source\repos\지뢰 찾기 게임\Debug\지뢰 찾기 게임.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\pc\source\repos\지뢰 찾기 게임\Debug\지뢰 찾기 게임.lib" /MACHINE:X86 Debug\Assistant.obj
+         Debug\Game.obj
+         Debug\GameManager.obj
+         Debug\myplayer.obj
+         Debug\Minesweeper.obj
+         Debug\Point.obj
+         지뢰 찾기 게임.vcxproj -> C:\Users\pc\source\repos\지뢰 찾기 게임\Debug\지뢰 찾기 게임.exe
+       FinalizeBuildStatus:
+         "Debug\지뢰 찾기 게임.tlog\unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\지뢰 찾기 게임.tlog\지뢰 찾기 게임.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\pc\source\repos\지뢰 찾기 게임\지뢰 찾기 게임\지뢰 찾기 게임.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+    경고 0개
+    오류 0개
+
+경과 시간: 00:00:01.80
